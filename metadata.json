@@ -1,0 +1,6 @@
+{
+  "name": "Pay Wallet",
+  "description": "A modern offline-first payment and wallet tracker featuring dynamic transactions, card management, and visual reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
